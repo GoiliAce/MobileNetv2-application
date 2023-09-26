@@ -1,0 +1,6 @@
+tensorflow
+streamlit
+rembg 
+Pillow
+matplotlib
+numpy
